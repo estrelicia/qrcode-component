@@ -16,7 +16,7 @@ section {
     margin: 150px 0;
     padding: 15px;
     border-radius: 20px;
-    width: min(80vw,300px);
+    width: min(85vw,350px);
     background-color: hsl(0, 0%, 100%);
     box-shadow: 1px 1px 50px 1px rgba(100, 100, 100, 0.2);
 }
@@ -36,7 +36,7 @@ p {
     font-weight: 400;
     color:hsl(220, 15%, 55%);
     text-align: center;
-    margin: 20px 10px 30px 10px;
+    margin: 20px 5px 30px 5px;
 }
 .attribution {
     float:right;
