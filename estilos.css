@@ -18,7 +18,7 @@ section {
     border-radius: 10px;
     width: min(80vw,300px);
     background-color: hsl(0, 0%, 100%);
-    box-shadow: 1px 1px 50px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 1px 1px 50px 1px rgba(100, 100, 100, 0.2);
 }
 img {
     width: 100%;
@@ -29,14 +29,14 @@ h1 {
     font-weight: 700;
     color:hsl(218, 44%, 22%);
     text-align: center;
-    margin: 15px 0;
+    margin: 20px 0;
 }
 p {
     font-size:15px;
     font-weight: 400;
     color:hsl(220, 15%, 55%);
     text-align: center;
-    margin: 10px 10px 20px 10px;
+    margin: 20px 10px 30px 10px;
 }
 .attribution {
     float:right;
